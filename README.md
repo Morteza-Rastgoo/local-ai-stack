@@ -20,7 +20,7 @@ Have questions? Join [AI Stack devs](https://discord.gg/TsWCNVvRP5) and find me 
 Fork the repo to your Github account, then run the following command to clone the repo:
 
 ```
-git clone git@github.com:[YOUR_GITHUB_ACCOUNT_NAME]/local-ai-stack.git
+git clone git@github.com:Morteza-Rastgoo/local-ai-stack.git
 ```
 
 ### 2. Install dependencies
